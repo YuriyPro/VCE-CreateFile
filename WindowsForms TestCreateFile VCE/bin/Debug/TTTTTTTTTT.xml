@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<SomeTest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <quest>
+    <Question>
+      <answers>
+        <Answer>
+          <Correct>true</Correct>
+          <Text>y</Text>
+          <Weight>100</Weight>
+        </Answer>
+        <Answer>
+          <Correct>false</Correct>
+          <Text>n</Text>
+          <Weight>100</Weight>
+        </Answer>
+      </answers>
+      <Title>Запитання 0</Title>
+      <Text>uefvref</Text>
+    </Question>
+  </quest>
+  <TestName>ttt</TestName>
+  <Subject>C</Subject>
+  <Author>yura</Author>
+</SomeTest>

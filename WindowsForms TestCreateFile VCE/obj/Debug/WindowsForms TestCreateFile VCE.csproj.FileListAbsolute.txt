@@ -1,0 +1,17 @@
+C:\Users\prots\source\repos\WindowsForms TestCreateFile VCE\WindowsForms TestCreateFile VCE\bin\Debug\WindowsForms TestCreateFile VCE.exe.config
+C:\Users\prots\source\repos\WindowsForms TestCreateFile VCE\WindowsForms TestCreateFile VCE\bin\Debug\WindowsForms TestCreateFile VCE.exe
+C:\Users\prots\source\repos\WindowsForms TestCreateFile VCE\WindowsForms TestCreateFile VCE\bin\Debug\WindowsForms TestCreateFile VCE.pdb
+C:\Users\prots\source\repos\WindowsForms TestCreateFile VCE\WindowsForms TestCreateFile VCE\bin\Debug\EntityFramework.dll
+C:\Users\prots\source\repos\WindowsForms TestCreateFile VCE\WindowsForms TestCreateFile VCE\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\prots\source\repos\WindowsForms TestCreateFile VCE\WindowsForms TestCreateFile VCE\bin\Debug\EntityFramework.xml
+C:\Users\prots\source\repos\WindowsForms TestCreateFile VCE\WindowsForms TestCreateFile VCE\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\prots\source\repos\WindowsForms TestCreateFile VCE\WindowsForms TestCreateFile VCE\obj\Debug\WindowsForms TestCreateFile VCE.csprojAssemblyReference.cache
+C:\Users\prots\source\repos\WindowsForms TestCreateFile VCE\WindowsForms TestCreateFile VCE\obj\Debug\WindowsForms_TestCreateFile_VCE.Form1.resources
+C:\Users\prots\source\repos\WindowsForms TestCreateFile VCE\WindowsForms TestCreateFile VCE\obj\Debug\WindowsForms_TestCreateFile_VCE.Properties.Resources.resources
+C:\Users\prots\source\repos\WindowsForms TestCreateFile VCE\WindowsForms TestCreateFile VCE\obj\Debug\WindowsForms TestCreateFile VCE.csproj.GenerateResource.cache
+C:\Users\prots\source\repos\WindowsForms TestCreateFile VCE\WindowsForms TestCreateFile VCE\obj\Debug\WindowsForms TestCreateFile VCE.csproj.CoreCompileInputs.cache
+C:\Users\prots\source\repos\WindowsForms TestCreateFile VCE\WindowsForms TestCreateFile VCE\obj\Debug\WindowsForms TestCreateFile VCE.csproj.CopyComplete
+C:\Users\prots\source\repos\WindowsForms TestCreateFile VCE\WindowsForms TestCreateFile VCE\obj\Debug\WindowsForms TestCreateFile VCE.exe
+C:\Users\prots\source\repos\WindowsForms TestCreateFile VCE\WindowsForms TestCreateFile VCE\obj\Debug\WindowsForms TestCreateFile VCE.pdb
+C:\Users\prots\source\repos\WindowsForms TestCreateFile VCE\WindowsForms TestCreateFile VCE\obj\Debug\WindowsForms_TestCreateFile_VCE.Forms.Work.resources
+c:\Users\prots\source\repos\WindowsForms TestCreateFile VCE\WindowsForms TestCreateFile VCE\obj\Debug\WindowsForms_TestCreateFile_VCE.Forms.Registration.resources

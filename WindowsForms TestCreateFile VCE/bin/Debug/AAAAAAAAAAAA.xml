@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<SomeTest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <quest>
+    <Question>
+      <answers>
+        <Answer>
+          <Correct>false</Correct>
+          <Text>for</Text>
+          <Weight>12</Weight>
+        </Answer>
+        <Answer>
+          <Correct>false</Correct>
+          <Text>while</Text>
+          <Weight>12</Weight>
+        </Answer>
+        <Answer>
+          <Correct>false</Correct>
+          <Text>do while</Text>
+          <Weight>12</Weight>
+        </Answer>
+        <Answer>
+          <Correct>true</Correct>
+          <Text>repeate  unitle</Text>
+          <Weight>12</Weight>
+        </Answer>
+      </answers>
+      <Title>Запитання 0</Title>
+      <Text>Какой из ниже перечисленных операторов, не является циклом в С++?</Text>
+    </Question>
+    <Question>
+      <answers>
+        <Answer>
+          <Correct>true</Correct>
+          <Text>:</Text>
+          <Weight>15</Weight>
+        </Answer>
+        <Answer>
+          <Correct>false</Correct>
+          <Text>,</Text>
+          <Weight>15</Weight>
+        </Answer>
+        <Answer>
+          <Correct>false</Correct>
+          <Text>-</Text>
+          <Weight>15</Weight>
+        </Answer>
+        <Answer>
+          <Correct>false</Correct>
+          <Text>.</Text>
+          <Weight>15</Weight>
+        </Answer>
+      </answers>
+      <Title>Запитання1</Title>
+      <Text>Какой служебный знак ставится после оператора case ?</Text>
+    </Question>
+  </quest>
+  <TestName>Prog@2</TestName>
+  <Subject>C</Subject>
+  <Author>yura</Author>
+</SomeTest>
